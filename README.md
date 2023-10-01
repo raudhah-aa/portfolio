@@ -1,7 +1,8 @@
-# HI
-hi my name is raudhah
-## TEST
-testing 123 
+# Intro 
+Hey there. My name is raudhah
 
-### 123
-abcdefg
+# Projects
+[Project #1: ](./project.html).
+
+
+
